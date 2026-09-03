@@ -100,7 +100,8 @@ minismarting/
 ├── .gitignore
 └── README.md
 📸 界面预览
-![系统截图]<img src="https://raw.githubusercontent.com/little-You520/minismarting/main/docs/playing.png" width="600">
+![系统截图]
+<img src="https://raw.githubusercontent.com/little-You520/minismarting/main/docs/playing.png" width="600">
 
 ⚙️ 环境变量说明
 前端 (.env.development)
