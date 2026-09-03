@@ -147,3 +147,6 @@ nginx-rtmp-module
 FFmpeg
 
 最后更新： 2026-09-03
+## 测试图片
+
+![GitHub Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Git_icon.svg/128px-Git_icon.svg.png)
