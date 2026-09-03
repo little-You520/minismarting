@@ -100,7 +100,7 @@ minismarting/
 ├── .gitignore
 └── README.md
 📸 界面预览
-![系统截图](https://github.com/user-attachments/assets/e0ae7751-5947-49c4-856a-060f91f4643c)
+![系统截图]<img src="https://raw.githubusercontent.com/little-You520/minismarting/main/docs/playing.png" width="600">
 
 ⚙️ 环境变量说明
 前端 (.env.development)
@@ -147,6 +147,3 @@ nginx-rtmp-module
 FFmpeg
 
 最后更新： 2026-09-03
-## 测试图片
-
-![GitHub Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Git_icon.svg/128px-Git_icon.svg.png)
