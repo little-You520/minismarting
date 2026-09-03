@@ -100,7 +100,7 @@ minismarting/
 ├── .gitignore
 └── README.md
 📸 界面预览
-![系统截图](docs/屏幕截图 2026-09-03 151940.png")
+![系统截图]docs/屏幕截图%202026-09-03%20151940.png
 
 ⚙️ 环境变量说明
 前端 (.env.development)
