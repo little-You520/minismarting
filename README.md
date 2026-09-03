@@ -100,7 +100,7 @@ minismarting/
 ├── .gitignore
 └── README.md
 📸 界面预览
-<img width="1121" height="713" alt="Image" src="https://github.com/user-attachments/assets/e0ae7751-5947-49c4-856a-060f91f4643c" />
+![系统截图](https://github.com/user-attachments/assets/e0ae7751-5947-49c4-856a-060f91f4643c)
 
 ⚙️ 环境变量说明
 前端 (.env.development)
